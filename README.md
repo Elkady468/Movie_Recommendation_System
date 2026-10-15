@@ -85,5 +85,5 @@ The notebook includes a heatmap of the similarity matrix (first 20 movies) to sh
 
 ## 👤 Author
 
-**[Your Name]**
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+**[Abdallah Elkady]**
+[LinkedIn](https://www.linkedin.com/in/abdallah-elkady-aba0032b4/)
